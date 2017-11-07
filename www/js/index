@@ -1,4 +1,0 @@
-(function(){
-    console.log('sending a message to the debugger');
-    alert('why isn't alert sending');
-}());
